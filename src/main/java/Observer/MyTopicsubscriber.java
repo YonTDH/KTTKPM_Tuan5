@@ -1,4 +1,4 @@
-package org.example;
+package Observer;
 
 public class MyTopicsubscriber implements Observer{
     private String name;
